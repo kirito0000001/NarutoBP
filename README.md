@@ -4,6 +4,12 @@
 
 《火影忍者》相关角色、名称、图片及素材版权归相关权利方所有，请支持正版与官方作品。
 
+## 下载地址
+
+1. GitHub：https://github.com/kirito0000001/NarutoBP
+2. 百度盘：https://pan.baidu.com/s/1NzZ1t793jN5RPiWDHw4TmA?pwd=2333
+3. 1233网盘：https://1850398353.share.123pan.cn/123pan/SQH4vd-Lr7e3
+
 ## 功能介绍
 
 程序目前分为以下两个模式：
